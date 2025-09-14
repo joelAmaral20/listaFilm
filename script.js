@@ -21,7 +21,7 @@ const minhaListafilmes = [
     filmesComedia ={
         nome: "o jogo do riso",
         anoLancamento: 2004,
-        atorPricipal: "Ana ool",
+        atorPricipal: "Ana carlos",
         cateGoria: "comedia"
     }
 ]
